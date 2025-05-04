@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
     "Wynie": [
      {
@@ -14,21 +14,4 @@
         }
     ]
   }
-=======
-{
-    "Wynie": [
-     {
-        "type": "tiktok",
-        "url": "https://www.tiktok.com/@wynie.1705/video/7492443066922585362",
-        "url": "https://www.tiktok.com/@wynie.1705/video/7499080770821098770"
-     }
-    ],
-    "Mít": [
-        {
-            "type": "tiktok",
-            "url": "https://www.youtube.com/embed/xyz789https://www.tiktok.com/@tinhvan_20/video/7482775114040216839"
-        }
-    ]
-  }
->>>>>>> b2f0abb291a0861b92f8627b72ff26901cba06aa
   
